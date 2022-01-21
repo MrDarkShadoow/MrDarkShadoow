@@ -18,9 +18,9 @@
 
 ### Connect with me:
 
-<img align="left" alt="youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />[Youtube](https://www.youtube.com/channel/UC4zkPH1ticImcO4-fjM2pZA)
+- <img align="left" alt="youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />[Youtube](https://www.youtube.com/channel/UC4zkPH1ticImcO4-fjM2pZA)
 <br>
-<img align="left" alt="discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />[Discord](https://www.discord.com/users/580821309420994590)
+ - <img align="left" alt="discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />[Discord](https://www.discord.com/users/580821309420994590)
 
 ### My status:
 

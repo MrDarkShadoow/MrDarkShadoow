@@ -24,5 +24,5 @@
 
 ### My status:
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/580821309420994590
-                            )](https://discord.com/users/580821309420994590)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/623959475660783617
+                            )](https://discord.com/users/623959475660783617)

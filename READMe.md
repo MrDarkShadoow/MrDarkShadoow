@@ -27,4 +27,5 @@
 <img align="right" src="https://lanyard-profile-readme.vercel.app/api/580821309420994590"/>
 <br>
 <br>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5sgrqedc5b5g0w9wt09lpgqyd&cover_image=true&theme=default&bar_color=00ff00&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=5sgrqedc5b5g0w9wt09lpgqyd&redirect=true)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fkjtcumrwpc5sefz2su2ulm2yy&cover_image=true&theme=default&bar_color=00ff00&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31fkjtcumrwpc5sefz2su2ulm2yy&redirect=true)

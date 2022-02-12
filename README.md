@@ -5,7 +5,7 @@
     <img alt="" src=https://komarev.com/ghpvc/?username=MrDarkShadoow />
 </p>
 
-<img src="assets/walllpaper dogesamuraikawai.jpg" alt="Doge">
+<img src="https://cdn.discordapp.com/attachments/636502333718790154/942136446863704074/image1.jpg" alt="Doge">
 
 ### Hello!
 

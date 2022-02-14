@@ -23,15 +23,7 @@
 - <img align="left" alt="discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />[Discord](https://www.discord.com/users/580821309420994590)
 
 ### My status:
-<details><summary>Discord</summary>
-<p>
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/580821309420994590
-                            )](https://discord.com/users/580821309420994590)
 
-<br>
-
-</p>
-</details>
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/580821309420994590
                             )](https://discord.com/users/580821309420994590)
 

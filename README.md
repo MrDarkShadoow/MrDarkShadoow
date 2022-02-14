@@ -1,5 +1,5 @@
-<h2 align="center">Hi I'm DarkShadow</h2>
-
+<h2 align="center">Hi I'm</h2>
+<img src="assets/standard.gif" alt="DarkShadow">
 <p align="center">
     <img alt="" src=https://img.shields.io/github/stars/MrDarkShdoow?affiliations=OWNER%2CCOLLABORATOR />
     <img alt="" src=https://komarev.com/ghpvc/?username=MrDarkShadoow />

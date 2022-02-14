@@ -24,10 +24,7 @@
 
 ### My status:
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/580821309420994590
-                            )](https://discord.com/users/580821309420994590)
-
-<br>
+<a href="https://discord.com/users/580821309420994590"><img align="right" src="https://lanyard-profile-readme-nyria.vercel.app/api/580821309420994590?bg=23283d&borderRadius=8px&hideDiscrim=true"/></a>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5sgrqedc5b5g0w9wt09lpgqyd&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=5sgrqedc5b5g0w9wt09lpgqyd&redirect=true)
 

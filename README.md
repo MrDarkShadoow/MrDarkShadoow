@@ -1,8 +1,8 @@
 <h2 align="center">Hi I'm</h2>
-<p align="center" alt="youtube" width="" src="assets/standard.gif">
+<p align="center" alt="" width="">
     <img alt="" src="assets/standard.gif">
 </p>
-<p align="center" alt="youtube" width="" src="assets/standard.gif">
+<p align="center" alt="" width="">
     <img alt="" src=https://img.shields.io/github/stars/MrDarkShdoow?affiliations=OWNER%2CCOLLABORATOR />
     <img alt="" src=https://komarev.com/ghpvc/?username=MrDarkShadoow />
 </p>
@@ -12,7 +12,6 @@
 ### Hello!
 
 <ul>
-  <li> I'm DarkShadow</li>
   <li> I’m working on Discord Bots</li>
   <li> My Discord <a href="https://www.discord.com/users/580821309420994590">Shadoow159258#4769</a></li>
   <li> I code on <a href="https://replit.com" target="_blank">Replit</a></li>

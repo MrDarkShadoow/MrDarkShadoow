@@ -1,5 +1,5 @@
 <h2 align="center">Hi I'm</h2>
-<p align="center" alt="youtube" width="" src="assets/standard.png">
+<p align="center" alt="youtube" width="" src="assets/standard.gif">
     <img alt="" src="assets/standard.png">
 </p>
 <p align="center" alt="youtube" width="" src="assets/standard.png">

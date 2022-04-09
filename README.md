@@ -11,8 +11,8 @@
 ### Hello!
 
 <ul>
-  <li> I’m working on Discord Bots</li>
-  <li> My Discord <a href="https://www.discord.com/users/580821309420994590">Shadoow159258#4769</a></li>
+  <li> I work on front end </li>
+  <li><a href="https://mrdarkshadoow.github.io/">My social media links </a></li>
   <li> I code on <a href="https://replit.com" target="_blank">Replit</a></li>
 </ul>
 

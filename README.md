@@ -23,5 +23,3 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5sgrqedc5b5g0w9wt09lpgqyd&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=5sgrqedc5b5g0w9wt09lpgqyd&redirect=true)
 
-
-  [![Snake animation](https://github.com/MrDarkShadoow/MrDarkShadoow/blob/output/github-contribution-grid-snake.svg)]
